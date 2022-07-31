@@ -21,7 +21,8 @@ Now, to install WordPress, use the following-
 wget https://wordpress.org/latest.tar.gz
 tar -xzf latest.tar.gz
 Then copy the wordpress pages into /var/www/html directory
-Step6: Create MySQL instance
+
+# Step6: Create MySQL instance
 
 ![image](https://user-images.githubusercontent.com/72142324/182029200-ac7e6b15-bcce-4594-922b-c5ff49c309f9.png)
 
